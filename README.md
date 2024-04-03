@@ -33,6 +33,8 @@ This repository contains the code for a real-time sentiment analysis system. The
 ### Usage
 - Detailed usage instructions for deploying and running the system.
 - Steps to start the streaming and sentiment analysis.
-- Example commands to build and run the containers using Docker and Docker Compose : `docker compose up`
+- Example command to build and run the containers using Docker and Docker Compose : 
+- `docker compose up` : for running containers
+- `docker build -t image_name` : for building docker image
 
 
